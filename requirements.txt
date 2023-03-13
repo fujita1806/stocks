@@ -3,3 +3,8 @@ requests
 sklearn
 tensorflow
 scikit-learn
+Bybit==0.2.8.1
+pandas
+numpy
+matplotlib
+ccxt 

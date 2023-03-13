@@ -1,6 +1,2 @@
 beautifulsoup4
 requests
-sklearn
-tensorflow
-scikit-learn
-Bybit==0.2.8.1

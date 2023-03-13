@@ -1,2 +1,5 @@
 beautifulsoup4
 requests
+sklearn
+tensorflow
+scikit-learn
